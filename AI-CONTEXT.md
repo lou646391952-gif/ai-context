@@ -113,7 +113,13 @@
 决策准则和输出规范与我协作。
 ```
 
-如果对方能联网，直接给 raw 链接；不能联网就把 `AI-CONTEXT.md` 全文粘进去。
+如果对方能联网，直接给它这个 raw 链接（纯文本，任何模型都能读）：
+
+```
+https://raw.githubusercontent.com/lou646391952-gif/ai-context/main/AI-CONTEXT.md
+```
+
+不能联网就把 `AI-CONTEXT.md` 全文粘进去。
 
 ---
 
